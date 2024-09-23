@@ -1,0 +1,1 @@
+C:\Users\a4\Desktop\maui\kalkulator\kalkulator\kalkulator.csproj;x64
